@@ -5,5 +5,3 @@ Materials for the 2023 Fundación Ramón Areces - IESE Machine Learning for Text
 ## Keynote Lecture 
 
 Slides available [here](https://www.dropbox.com/s/wgahujta0jzdoo3/keynote_lecture.pdf?dl=0).
-
-Test1
